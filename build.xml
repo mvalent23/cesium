@@ -135,7 +135,7 @@
 	<property name="clocPath" location="${toolsDirectory}/cloc-1.60/cloc-1.60.pl" />
 	<property name="clocDefinitionsPath" location="${toolsDirectory}/cloc-1.60/cloc_definitions" />
 	<property name="jsHintOptionsPath" location=".jshintrc" />
-	<property name="nodePath" value="node" />
+	<property name="nodePath" value="/usr/local/bin/node" />
 	<property name="npmPath" value="npm" />
 
 	<!-- Outputs -->
